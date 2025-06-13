@@ -1,5 +1,9 @@
 # 📘 Java-A-TO-Z
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/Anugupta5102/Java-A-TO-Z?color=blue)](https://github.com/Anugupta5102/Java-A-TO-Z/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/Anugupta5102/Java-A-TO-Z?style=social)](https://github.com/Anugupta5102/Java-A-TO-Z/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Welcome to **Java-A-TO-Z**, a comprehensive repository that covers everything from **Java basics to advanced concepts**. Whether you're a beginner starting your Java journey or preparing for technical interviews, this repo has something for you!
 
 ---
@@ -7,34 +11,34 @@ Welcome to **Java-A-TO-Z**, a comprehensive repository that covers everything fr
 ## 📌 What's Inside
 
 ### 🧱 Core Java
-- Syntax, variables, data types
-- OOPs: Inheritance, Polymorphism, Abstraction, Encapsulation
-- Exception handling
-- File handling
-- Multithreading
+- ✨ Syntax, variables, data types
+- 💡 OOPs: Inheritance, Polymorphism, Abstraction, Encapsulation
+- 🚫 Exception handling
+- 📁 File handling
+- 🔄 Multithreading
 
-### 🔄 Searching & Sorting
-- Linear Search, Binary Search
-- Bubble Sort, Insertion Sort, Selection Sort
-- Merge Sort, Quick Sort
+### 🔍 Searching & Sorting
+- 🚀 Linear Search, Binary Search
+- 📊 Bubble Sort, Insertion Sort, Selection Sort
+- 🧩 Merge Sort, Quick Sort
 
 ### 🧵 Multithreading
-- Thread creation using `Thread` & `Runnable`
-- Synchronization
-- Inter-thread communication
-- Deadlocks & solutions
+- 🏃‍♂️ Thread creation using `Thread` & `Runnable`
+- 🔒 Synchronization
+- 💬 Inter-thread communication
+- 💀 Deadlocks & solutions
 
-### 🗃 Collection Framework
-- List, Set, Map, Queue
-- ArrayList vs LinkedList, HashSet vs TreeSet
-- HashMap, TreeMap
-- Iterators and Stream API
+### 🗃️ Collection Framework
+- 📝 List, Set, Map, Queue
+- 🔗 ArrayList vs LinkedList, HashSet vs TreeSet
+- 🗺️ HashMap, TreeMap
+- ➡️ Iterators and Stream API
 
 ### 🧠 DSA in Java
-- Arrays, Strings, Linked Lists
-- Stacks, Queues, Trees, Graphs
-- Dynamic Programming
-- Sliding Window, Two Pointers, Recursion, Backtracking
+- 📦 Arrays, Strings, Linked Lists
+- 🪜 Stacks, Queues, Trees, Graphs
+- 📈 Dynamic Programming
+- 🪟 Sliding Window, Two Pointers, Recursion, Backtracking
 
 ---
 
@@ -50,15 +54,24 @@ Welcome to **Java-A-TO-Z**, a comprehensive repository that covers everything fr
 ---
 
 ## 📂 Folder Structure
+
+Sure, here's a corrected and more readable way to present your folder structure in the `README.md` file:
+
+---
+
+## 📂 Folder Structure
+
+```
 Java-A-TO-Z/
-├── CoreJava/
-├── OOPs/
-├── Threads/
-├── Patterns/
-├── CollectionFramework/
-├── SearchingSorting/
-├── DSA/
-└── README.md
+├── CoreJava/             # Contains fundamental Java concepts and syntax
+├── OOPs/                 # Object-Oriented Programming principles
+├── Threads/              # Everything related to Multithreading
+├── Patterns/             # Common design patterns or coding patterns
+├── CollectionFramework/  # Examples and explanations of Java Collections
+├── SearchingSorting/     # Implementations of various searching and sorting algorithms
+├── DSA/                  # Data Structures and Algorithms problems and solutions
+└── README.md             # This file!
+```
 
 ---
 

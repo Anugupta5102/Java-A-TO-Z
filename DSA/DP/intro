@@ -1,0 +1,25 @@
+Dynamic programming- stores the past answers
+      => storing answers to various sub-problems to be 
+      used later whenever required to solve the main problem.
+ 
+# APPROACHES->
+
+ 1. Tabulation- Bottom-up(base to main)      O(n)
+    => initialize dp array
+    => base case
+    => dp[i]=recursion step
+       
+ 2. Memoization- Top-Down(main to base)        O(n)-tc, O(N)-sc
+     => stores the value of sub-problem in array/map
+     => declare dp array[n+1]
+     =>store ans to dp array 
+     => Check if sub-problem previously solved (dp[i] != -1) return dp[n]
+      
+
+
+ Recursion -> overlapping sub-problems (top-down)
+
+Recursion convert to DP
+
+
+

@@ -82,7 +82,7 @@ Want to add your own Java programs or improve existing ones? Feel free to **fork
 - **Developer:** Anushree Gupta  
 - **GitHub:** [@Anugupta5102](https://github.com/Anugupta5102)  
 - **Email:** anugupta5102@gmail.com
-- 
+  
 ---
 
 ## License 📜
@@ -90,6 +90,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-🌟 **⭐ Don't forget to **Star the repo** if you find it useful!**  
+🌟 **Don't forget to **Star the repo** if you find it useful!**  
 ✨ Happy coding! 🧡
 

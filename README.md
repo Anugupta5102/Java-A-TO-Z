@@ -55,12 +55,6 @@ Welcome to **Java-A-TO-Z**, a comprehensive repository that covers everything fr
 
 ## 📂 Folder Structure
 
-Sure, here's a corrected and more readable way to present your folder structure in the `README.md` file:
-
----
-
-## 📂 Folder Structure
-
 ```
 Java-A-TO-Z/
 ├── CoreJava/             # Contains fundamental Java concepts and syntax
